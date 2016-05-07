@@ -10,6 +10,14 @@
     "demo",
     "test"
   ],
+  "repository": {
+    "type": "git",
+    "url": "cdersky/my1stnpmpackage"
+  },
   "author": "cdersky",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url" : "https://github.com/cdersky/my1stnpmpackage/issues",
+    "email" : "cdersky@gmail.com"
+  }
 }
