@@ -11,4 +11,6 @@ If you would like Claire to hypnotize you, write the following lines of code and
 * `var claire = require ('my1stnpmpackage')`
 * `claire.hypnotize()`
 
+[see this package on npm](https://www.npmjs.com/package/my1stnpmpackage)
+
 _This is a demo for personal growth, specifically to learn how to publish npm package._
