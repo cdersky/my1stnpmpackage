@@ -1,7 +1,7 @@
 # my1stnpmpackage
 
 Installation
-`$ npm install --save my1stnpmpackage
+`$ npm install --save my1stnpmpackage`
 
 To use this npm package, require this module.
 * Example:
