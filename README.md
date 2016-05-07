@@ -1,14 +1,15 @@
 # my1stnpmpackage
 
-Installation
+#### Installation
 `$ npm install --save my1stnpmpackage`
 
+#### Usage
 To use this npm package, require this module.
 * Example:
 `require ('my1stnpmpackage')`
 
 Build your file (either in the terminal or in your local editor) to feel its warm fuzzy effects.
-* To build in the terminal, type: `node <nameOfFile.js>`
+* To build in the terminal, type: `$ node <nameOfFile.js>`
 
 If you would like Claire to hypnotize you, write the following lines of code and build.
 * `var claire = require ('my1stnpmpackage')`
