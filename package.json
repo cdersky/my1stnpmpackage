@@ -1,0 +1,15 @@
+{
+  "name": "my1stnpmpackage",
+  "version": "1.0.0",
+  "description": "demo, test, practice publishing an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "test"
+  ],
+  "author": "cdersky",
+  "license": "MIT"
+}
