@@ -1,6 +1,6 @@
 {
   "name": "my1stnpmpackage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "demo, test, practice publishing an npm package",
   "main": "index.js",
   "scripts": {
